@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc in Applied Analytics (Expected), Columbia University, 2025  
+  * GPA: 4.0 (Projected)  
+  * Courses: Applied Text and Natural Language Analytics, Financial Data Science and ML, Anomaly Detection
+* BASc in Arts and Sciences, UCL (First Class Honors), 2024  
+  * Focus: Mathematics, Computer Science, Philosophy
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Prakrit-to-English Translation via In-Context Learning  
+  * Columbia University, Mar 2024 – Present  
+  * Investigated low-resource LLM translation using TF-IDF vs. NMF example selection; evaluated with BLEU & SBERT
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Differential Privacy Mechanisms for Real-Time Data Streams  
+  * UCL, Jan 2023 – May 2024  
+  * Proposed exponential mechanism; improved latency by 35% and accuracy by 15%
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Structural Mediation Modeling in Urban Socioeconomics  
+  * UCL, Sep 2023 – Jan 2024  
+  * Led SEM on 27,376 cases; found housing costs mediate 77% of transit effect on employment
+
+* Causal Inference in Geo-Political Economics  
+  * UCL, Sep 2022 – Jan 2023  
+  * Used RDiT and DiD to analyze conflict/oil price links; built reproducible Python pipeline
+
+* Sustainable Transportation Accessibility Analysis  
+  * UCL, Jan 2022 – Apr 2022  
+  * Developed GIS framework to evaluate London cycle routes
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python (NumPy, Pandas, Scikit-learn), Java, C++, LaTeX
+* NLP & ML: LLMs, BLEU, SBERT, TF-IDF, NMF, Retrieval-Augmented Generation
+* Analytics Software: Excel, Office Suite
+* Research: Causal inference, SEM, technical writing, prompt engineering
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
