@@ -1,152 +1,108 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Clara Dragut",
+    "email": "md4396@columbia.edu",
+    "phone": "+1 (646) 358--6216",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "New York",
+      "region": "NY",
+      "countryCode": "US"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "clara-dragut",
+        "url": "https://www.linkedin.com/in/clara-dragut"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "claradragu",
+        "url": "https://github.com/claradragu"
       }
-    ]
+    ],
+    "summary": "Eager to leverage an interdisciplinary background in Mathematics, Computer Science, and Philosophy to design cutting-edge analytics and machine learning solutions. Passionate about blending formal reasoning with computational techniques to tackle complex, real-world challenges in data science and AI."
   },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Columbia University",
+      "area": "Applied Analytics",
+      "degree": "MSc",
+      "gpa": "4.0 (Projected)",
+      "startDate": "2024-09-01",
+      "endDate": "2025-12-31",
+      "location": "New York, USA",
+      "courses": [
+        "Applied Text and Natural Language Analytics",
+        "Financial Data Science and Machine Learning",
+        "Anomaly Detection",
+        "Strategy and Analytics"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "University College London (UCL)",
+      "area": "Arts and Sciences",
+      "degree": "BASc",
+      "gpa": "First Class Honors",
+      "startDate": "2021-09-01",
+      "endDate": "2024-06-30",
+      "location": "London, UK"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+  "projects": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Prakrit-to-English Translation via In-Context Learning",
+      "description": "Investigated low-resource language translation using LLMs and dynamic example retrieval; compared TF-IDF vs. NMF example selection strategies; evaluated with BLEU and SBERT.",
+      "startDate": "2024-03-01"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Differential Privacy Mechanisms for Real-Time Data Streams",
+      "description": "Proposed a lightweight exponential mechanism for high-throughput privacy; reduced latency by 35% and increased accuracy by 15%.",
+      "startDate": "2023-01-01",
+      "endDate": "2024-05-01"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Structural Mediation Modeling in Urban Socioeconomics",
+      "description": "Led SEM analysis on 27,376 observations; found housing costs mediate ~77% of the effect of transportation access on employment outcomes.",
+      "startDate": "2023-09-01",
+      "endDate": "2024-01-01"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Causal Inference in Geo-Political Economics",
+      "description": "Used RDiT and DiD methods to study impact of conflict on global oil prices across 14 case studies; built reproducible Python pipeline.",
+      "startDate": "2022-09-01",
+      "endDate": "2023-01-01"
+    },
+    {
+      "name": "Sustainable Transportation Accessibility Analysis",
+      "description": "Developed framework using GIS, field studies, and interviews to evaluate London's cycle route accessibility.",
+      "startDate": "2022-01-01",
+      "endDate": "2022-04-01"
     }
   ],
-  "presentations": [
+  "skills": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Programming & Data Science",
+      "keywords": [
+        "Python", "NumPy", "Pandas", "Scikit-learn", "TensorFlow", "Matplotlib", "Java", "C++", "LaTeX"
+      ]
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "NLP & ML Tools",
+      "keywords": [
+        "LLMs", "Prompt Engineering", "Retrieval-Augmented Generation", "SBERT", "BLEU", "TF-IDF", "NMF", "Differential Privacy"
+      ]
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "Analytics Software",
+      "keywords": [
+        "Microsoft Excel", "Microsoft Office Suite"
+      ]
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Research Skills",
+      "keywords": [
+        "Causal inference", "Structural equation modeling", "Experiment design", "Technical writing", "Project leadership"
+      ]
     }
   ]
 }
