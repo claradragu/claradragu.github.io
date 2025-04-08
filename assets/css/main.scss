@@ -35,33 +35,3 @@
     "layout/page",
     "layout/archive",
     "layout/sidebar",
-/* Custom dark mode overrides */
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #0d0d0d !important;
-    color: #f0f0f0 !important;
-  }
-
-  a {
-    color: #99ccff !important;
-  }
-
-  .sidebar, .masthead, .page__footer {
-    background-color: #121212 !important;
-  }
-
-  .page, .archive, .page__content {
-    background-color: #1a1a1a !important;
-    color: #eaeaea !important;
-  }
-
-  .page__title, h1, h2, h3, h4, h5 {
-    color: #ffffff !important;
-  }
-}
-
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands",
-    "vendor/magnific-popup/magnific-popup"
-;
